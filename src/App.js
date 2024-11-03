@@ -15,7 +15,7 @@ function App() {
         <Welcome></Welcome>
         <Greetings></Greetings>
         <SayHello fname= "Masha"/>
-        <SayHello lname= "Sofronova"/>
+        <SayHello lname= "Sofro"/>
         <SayHello fname= "GREAT"/>
         <h2>George Brown College</h2>
     </div>
